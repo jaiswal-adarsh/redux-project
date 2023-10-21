@@ -1,0 +1,19 @@
+.cart-wrapper {
+    height: 200px;
+    width: 100px;
+    border: 1px solid;
+    margin-left: 2%;
+}
+
+.img-wrapper img{
+    width: 100px;
+    margin: 5%;
+}
+
+.btn-wrapper button{
+    background-color: orangered;
+    color: white;
+    box-shadow: 2px 3px 3px grey;
+    border-radius: 4px;
+    height: 25px;
+}
